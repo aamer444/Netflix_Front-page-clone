@@ -1,0 +1,12 @@
+.color{
+background-color: #303030 !important;
+
+
+text-align: center;
+}
+
+.customClass button{
+background-color: rgb(19, 18, 18);
+color: white;
+height: 5rem;
+}
